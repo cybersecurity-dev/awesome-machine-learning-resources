@@ -18,6 +18,12 @@
 ## Books
 * [AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/B0DWHRL19D)
 * [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319)
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)
+* [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
+
+## Courses
+* [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml)
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 ## Blogs
 
