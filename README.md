@@ -31,9 +31,11 @@
 * [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 
 ### Courses
-* [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml) - Introduction to Machine Learning. This course introduces machine learning (ML) concepts. This course does not cover how to implement ML or work with data.
-* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning, featuring a series of animated videos, interactive visualizations, and hands-on practice exercises.
+* [Introduction to Machine Learning by `Google`](https://developers.google.com/machine-learning/intro-to-ml) - Introduction to Machine Learning. This course introduces machine learning (ML) concepts. This course does not cover how to implement ML or work with data.
 * [Machine Learning for Beginners - A Curriculum by `Microsoft`](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all.
+* [Machine Learning Crash Course by `Google`](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning, featuring a series of animated videos, interactive visualizations, and hands-on practice exercises.
+* [Machine Learning Glossary: ML Fundamentals by `Google`](https://developers.google.com/machine-learning/glossary/fundamentals)
+* [Text Classification by `Google`](https://developers.google.com/machine-learning/guides/text-classification)
 
 ### Videos
 - [Introduction to Machine Learning by MIT OpenCourseWare](https://youtu.be/h0e2HAPTGF4?si=A2_rYyQqxRi5te_v)
